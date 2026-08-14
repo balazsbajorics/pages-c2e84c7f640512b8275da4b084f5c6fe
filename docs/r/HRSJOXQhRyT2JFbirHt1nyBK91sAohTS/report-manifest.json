@@ -1,0 +1,10 @@
+{
+  "database_built_at": "2026-08-14T11:37:17.431799+02:00",
+  "generated_at": "2026-08-14T11:38:38+02:00",
+  "model_version": "2.0.0-alpha.2",
+  "quality_gate": "passed",
+  "refresh_batch_id": "20260814T092509Z-0e3317448a1c",
+  "report_sha256": "c5f20a1e057f3cd9b55a2d7657c4f9eca181a3b580de834e82f61eda0997c8cc",
+  "review_confirmed": true,
+  "source_fingerprint": "62b977be962daafa153177712ec3dd694d4cda51f8d1edf2d870845ad071b88c"
+}
